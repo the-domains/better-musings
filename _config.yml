@@ -1,0 +1,14 @@
+layout_spectrum: 0.31726531381718814
+typography_spectrum: 0.3948596997652203
+color:
+  brandStrength: 0.2631589707452804
+  lightness: 0.7586009372025728
+  saturation: 0.46267967321909964
+  rhythmicContrast: 0.27504459768533707
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: better musings
